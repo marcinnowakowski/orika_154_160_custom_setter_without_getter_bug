@@ -1,1 +1,1 @@
-# orika_1_6_0_custom_setter_without_getter_bug
+# orika_154_160_custom_setter_without_getter_bug
