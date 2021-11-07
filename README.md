@@ -1,0 +1,1 @@
+# orika_1_6_0_custom_setter_without_getter_bug
